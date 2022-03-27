@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# dataset
+farmers-protest-tweets-2021-03-5.json
